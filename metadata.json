@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Gemini EduTutor",
+  "name": "EduTutor",
   "description": "An educational application for tutors and students, featuring AI-powered activity generation, real-time progress tracking, and gamified learning experiences. Tutors can create and assign activities, while students engage with interactive exercises in a motivating environment.",
   "requestFramePermissions": []
 }
